@@ -1,3 +1,3 @@
 - What I did: Study on computational thinking
 - What I learned: decomposition, pattern, abstraction, algorithm
-- What was hard:
+- What was hard: know the difference between abstraction and algorithm
