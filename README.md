@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is [Student Name].  
+My name is [Jerry].  
 I am a student in the Full-Stack Web and AI Application Development course.
 
 ## Course
