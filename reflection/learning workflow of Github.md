@@ -1,19 +1,19 @@
-- What did you learn today? Explain the main ideas in your own words.
+- What is GitHub?
 
-I learned the workflow of Github. The steps are Create repository, Create branch, Make and commit, Open a pull request and Merge
+Github is a platform for developer collaborate with others
 
-- What did you do well during today’s lesson?
+- What is the GitHub Workflow?
 
-Understand the workflow of Github
+The steps for working in Github, which are: Create Repository, Create Branch, Make and commit, Open a pull request, Merge the pull request
 
-- What could you improve, and how could you do it better next time?
+- What did you do well today?
 
-I can improve to list real life example using specific example
+I understand the Github Workflow and i can list real life example using Github Workflow
 
-- Which parts are you still unsure or confused about?
+- What could you improve?
 
-None
+When list real life examples, make it more specifically instead of big idea
 
-- What is one specific action you will take to improve your understanding?
+- What will you do differently next time to improve your learning or performance?
 
-I will search online after school
+I will search the part i feel difficult online
