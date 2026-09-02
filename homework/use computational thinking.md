@@ -1,7 +1,7 @@
-First to decompose the things into different part
+- Decompose the problem into different parts
 
-Then choose the most important part, ignore something to distract you
+- Choose the most important part, ignore something that can distract you
 
-Set a good instruction to solve the problem
+- Set a good instruction to solve the problem
 
-Test it 
+- Test it
