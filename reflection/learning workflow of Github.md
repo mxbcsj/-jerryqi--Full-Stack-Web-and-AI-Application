@@ -1,18 +1,18 @@
 - What did you learn today? Explain the main ideas in your own words.
 
-I learned what is Git, Git is a tool to track your coding and it is very efficient
+I learned the workflow of Github. The steps are Create repository, Create branch, Make and commit, Open a pull request and Merge
 
 - What did you do well during today’s lesson?
 
-Following the instruction to use the basic commands for Git
+Understand the workflow of Github
 
 - What could you improve, and how could you do it better next time?
 
-I can memories the basic commands for Git
+I can improve to list real life example using specific example
 
 - Which parts are you still unsure or confused about?
 
-How to connect Git project to Github
+None
 
 - What is one specific action you will take to improve your understanding?
 
