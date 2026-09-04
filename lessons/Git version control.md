@@ -9,6 +9,14 @@ git config --global user.name
 
 git config --global user.email
 
+git branch bName
+
+git switch bName
+
 git status
 
 git add .
+
+git commit -m "add a file"
+
+git push.origin main
