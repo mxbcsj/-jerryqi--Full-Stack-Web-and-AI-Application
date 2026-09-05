@@ -108,7 +108,7 @@ Use case: import the image in the file
 
 ### Code and code blocks
 
-"`" code "`"
+"`" before and after the code
 
 > Example:
 > `code 112233`
