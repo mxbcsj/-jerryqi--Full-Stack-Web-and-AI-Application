@@ -42,7 +42,7 @@ Local Repository
 
 ### Identify the Git command you would use next.
 
-git push name main
+git push origin main
 
 ### Explain what that command does.
 
