@@ -16,7 +16,7 @@ push is to upload to the remote repository
 ## 2.Describe two rules we need to remember when making changes to our current files.
 
 1. type git pull command
-2. ommit your changes
+2. commit your changes
 
 ## 3.Describe two common mistakes we need avoid.
 
