@@ -1,21 +1,12 @@
 Choose **one difficult concept** you are currently learning in Computer Science.
 
-Examples:
-
-- Git working areas
-- `git add` vs. `git commit`
-- Branches
 - GitHub workflow
-- Pull Requests
-- Another difficult concept from class
 
 ## Part 1 — Create an Analogy or Metaphor
 
 Create your own analogy or metaphor to explain the concept.
 
-Example:
-
-> A Git commit is like taking a snapshot of your project.
+> Github workflow is an automated process that will run one or more jobs 
 
 Explain:
 
@@ -43,9 +34,17 @@ Do not try to master the concept in one session.
 
 Then write:
 
-- What was difficult at first?
-- What became clearer after you came back to it?
-- What do you still need to practice?
+- ### What was difficult at first?
+
+- Under the difference between Github Workflow and Github Workflow Diagram
+
+- ### What became clearer after you came back to it?
+
+- 
+  
+- ### What do you still need to practice?
+
+- 
 
 ## Key Idea
 
