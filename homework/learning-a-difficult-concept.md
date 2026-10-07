@@ -19,10 +19,10 @@ Explain:
 Describe how you could use both modes to learn this concept.
 
 **Focused Mode:**  
-What would you actively practice or study?
+Focused Mode are thinking on a specific question, it can help you to think deeper into the question
 
 **Diffuse Mode:**  
-What could you do after focused practice to give your brain time to process the idea?
+Diffuse Mode are thinking wider, it can help you to get the big idea
 
 ## Part 3 — Learn It Over Time
 
