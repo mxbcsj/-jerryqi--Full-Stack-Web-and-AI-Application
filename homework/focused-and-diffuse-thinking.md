@@ -12,3 +12,11 @@ Yes, for example, when you sit on a chair doing math problem and when you sit on
 ### You are studying for a difficult exam and become stuck on a problem. How would you decide whether to keep working, change strategy, or take a break? Explain your reason and what you would do when you return.
 
 This is depending on how many methods you know, obviously you cannot take a break during an exam, so if you know other methods, you should try other methods to solve the problem. If you do not know other methods and very sure the previous method really does not work, then you can skip the question and do other questions, you might go back when finish other questions.
+
+# Tips for making Interview questions
+
+1. Make the question specific
+2. Unbiased
+3. Don't make the question leading the participants
+4. Make some easier questions
+5. Practice the interview
