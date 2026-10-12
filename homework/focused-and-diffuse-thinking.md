@@ -6,7 +6,7 @@ Focused mode is when you are thinking of one specific question, and diffuse mode
 # Q2 Apply
 ### Can the same activity involve either mode at different times? Give one activity and describe two different ways of directing your attention.
 
-Yes, for example, when you sit on a chair doing math problem and when you sit on a chair and for relax is different. For the first situation, you have a question to think about, and for the second question, you do not really have a question, so you do not focus on anything.
+Yes, for example, when you sit on a chair doing math problem and when you sit on a chair and for relax is different. For the first situation, you have a question to think about, and for the second situation, you do not really have a question, so you do not focus on anything.
 
 # Q3 Transfer
 ### You are studying for a difficult exam and become stuck on a problem. How would you decide whether to keep working, change strategy, or take a break? Explain your reason and what you would do when you return.
