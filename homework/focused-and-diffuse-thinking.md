@@ -15,8 +15,8 @@ This is depending on how many methods you know, obviously you cannot take a brea
 
 # Tips for making Interview questions
 
-1. Make the question specific
-2. Unbiased
-3. Don't make the question leading the participants
-4. Make some easier questions
+1. 6W's
+2. Avoid bias
+3. Listen
+4. Organism interview
 5. Practice the interview
